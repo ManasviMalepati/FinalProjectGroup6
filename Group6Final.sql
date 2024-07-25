@@ -6,10 +6,10 @@ CREATE SCHEMA group6Final;
 
 CREATE TABLE group6Final.bls_cpi(
 	series_id VARCHAR(20), --Restrict?
-    month INTEGER,
-    year INTEGER,
-    cpi_value NUMERIC,
-    PRIMARY KEY (series_id, month, year)
+	month INTEGER,
+	year INTEGER,
+	cpi_value NUMERIC,
+	PRIMARY KEY (series_id, month, year)
 );
 
 CREATE TABLE group6Final.bls_series(
@@ -62,6 +62,7 @@ CREATE TABLE group6Final.geo_mapping_table(
 );
 
 --LOADING DATA (can copy and paste - change table name, columns, and paths)
+
 COPY group6Final.bls_cpi (series_id, month, year, cpi_value)
 FROM 'ADD PATH BASED ON NAMES OF FILES STORED'
 DELIMITER ','
