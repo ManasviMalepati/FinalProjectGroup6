@@ -1,4 +1,4 @@
-bls_geo_id,bls_geo_name,zillow_geo_id,zillow_geo_name
+bls_geo_id,bls_geo_name,zillow_geo_id,census_geo_name
 S35C,"Atlanta-Sandy Springs-Roswell, GA",394347,310M600US12060
 S35E,"Baltimore-Columbia-Towson, MD",394358,310M600US12580
 S11A,"Boston-Cambridge-Newton, MA-NH",394404,310M600US14460
