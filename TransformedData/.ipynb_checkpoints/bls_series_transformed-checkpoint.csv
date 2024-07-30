@@ -1,0 +1,1483 @@
+series_id,series_name,bls_geo_id
+APU0000701111,"Flour, white, all purpose, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000701311,"Rice, white, long grain, precooked (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000701312,"Rice, white, long grain, uncooked, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000701321,"Spaghetti (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000701322,"Spaghetti and macaroni, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702111,"Bread, white, pan, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702112,"Bread, French, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702211,"Bread, rye, pan (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702212,"Bread, whole wheat, pan, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702213,"Bread, wheat blend, pan (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702221,"Rolls, hamburger (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702411,"Cupcakes, chocolate (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702421,"Cookies, chocolate chip, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000702611,"Crackers, soda, salted, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703111,"Ground chuck, 100% beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703112,"Ground beef, 100% beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703113,"Ground beef, lean and extra lean, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703211,"Chuck roast, USDA Choice, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703212,"Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703213,"Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703311,"Round roast, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703312,"Round roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703411,"Rib roast, USDA Choice, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703421,"Steak, chuck, U.S. choice, bone-in (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703422,"Steak, T-Bone, USDA Choice, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703423,"Steak, porterhouse, U.S. choice, bone-in (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703425,"Steak, rib eye, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703431,"Short ribs, any primal source, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703432,"Beef for stew, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703511,"Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703611,"Steak, sirloin, USDA Choice, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703612,"Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000703613,"Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704111,"Bacon, sliced, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704211,"Chops, center cut, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704212,"Chops, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704311,"Ham, rump or shank half, bone-in, smoked,per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704312,"Ham, boneless, excluding canned, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704313,"Ham, rump portion, bone-in, smoked (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704314,"Ham, shank portion, bone-in, smoked (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704321,"Ham, canned, 3 or 5 lbs, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704411,"Pork shoulder roast, blade boston, bone-in (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704412,"Pork sirloin roast, bone-in (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704413,"Shoulder picnic, bone-in, smoked, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000704421,"Sausage, fresh, loose, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000705111,"Frankfurters, all meat or all beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000705121,"Bologna, all beef or mixed, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000705141,"Beef liver (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000705142,"Lamb and mutton, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000706111,"Chicken, fresh, whole, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000706211,"Chicken breast, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000706212,"Chicken legs, bone-in, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000706311,"Turkey, frozen, whole, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000707111,"Tuna, light, chunk, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000708111,"Eggs, grade A, large, per doz. in U.S. city average, average price, not seasonally adjusted",0000
+APU0000708112,"Eggs, grade AA, large, per doz. in U.S. city average, average price, not seasonally adjusted",0000
+APU0000709111,"Milk, fresh, whole, fortified, per 1/2 gal. (1.9 lit) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000709112,"Milk, fresh, whole, fortified, per gal. (3.8 lit) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000709211,"Milk, fresh, skim (cost per one-half gallon/1.9 liters) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000709212,"Milk, fresh, low fat, per 1/2 gal. (1.9 lit) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000709213,"Milk, fresh, low fat, per gal. (3.8 lit) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000710111,"Butter, salted, grade AA, stick, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000710122,"Yogurt, natural, fruit flavored, per 8 oz. (226.8 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000710211,"American processed cheese, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000710212,"Cheddar cheese, natural, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000710411,"Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711111,"Apples, Red Delicious, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711211,"Bananas, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711311,"Oranges, Navel, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711312,"Oranges, Valencia, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711411,"Grapefruit, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711412,"Lemons, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711413,"Pears, Anjou, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711414,"Peaches, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711415,"Strawberries, dry pint, per 12 oz. (340.2 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711416,"Grapes, Emperor or Tokay (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711417,"Grapes, Thompson Seedless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000711418,"Cherries, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712111,"Potatoes, white (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712112,"Potatoes, white, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712211,"Lettuce, iceberg, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712311,"Tomatoes, field grown, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712401,"Cabbage, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712402,"Celery, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712403,"Carrots, short trimmed and topped, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712404,"Onions, dry yellow, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712405,"Onions, green scallions (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712406,"Peppers, sweet, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712407,"Corn on the cob, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712408,"Radishes (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712409,"Cucumbers, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712410,"Beans, green, snap (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712411,"Mushrooms (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000712412,"Broccoli, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000713111,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000713311,"Apple Sauce, any variety, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000713312,"Peaches, any variety, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000714111,"Potatoes, frozen, French fried, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000714221,"Corn, canned, any style, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000714231,"Tomatoes, canned, whole, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000714232,"Tomatoes, canned, any type, all sizes,  per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000714233,"Beans, dried, any type, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000715111,"Hard candy, solid (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000715211,"Sugar, white, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000715212,"Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000715311,"Jelly (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000716111,"Margarine, vegetable oil blends, stick (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000716113,"Margarine, vegetable oil blends, soft, tubs (cost per pound/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000716114,"Margarine, stick, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000716116,"Margarine, soft, tubs, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000716121,"Shortening, vegetable oil blends, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000716141,"Peanut butter, creamy, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717111,"Cola, non-diet, return bottles, 6 or 8 pack (cost per 16 ounces/473.2 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717112,"Cola, non diet, return bottles, 24-40 ounce (cost per 16 ounces/473.2 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717113,"Cola, nondiet, cans, 72 oz. 6 pk., per 16 oz. (473.2 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717114,"Cola, nondiet, per 2 liters (67.6 oz) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717311,"Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717312,"Coffee, 100%, ground roast, 13.1-20 oz. can, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717324,"Coffee, instant, plain, regular, 6.1-14 ounce (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717325,"Coffee, freeze dried, regular, all sizes (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717326,"Coffee, freeze dried, decaf., all sizes (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717327,"Coffee, instant, plain, regular, all sizes, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717411,"Coffee, instant, plain, 9.1-14 ounce (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717412,"Coffee, instant, plain, 3.1-6 ounce (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000717413,"Coffee, freeze dried, plain, 3.1-9 ounce (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000718311,"Potato chips, per 16 oz. in U.S. city average, average price, not seasonally adjusted",0000
+APU0000718631,"Pork and beans, canned (cost per 16 ounces/453.6 grams) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000720111,"Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000720211,"Bourbon whiskey, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000720221,"Vodka, domestic, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000720222,"Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000720311,"Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in U.S. city average, average price, not seasonally adjusted",0000
+APU000072511,"Fuel oil #2 per gallon (3.785 liters) in U.S. city average, average price, not seasonally adjusted",0000
+APU000072601,"Utility (piped) gas - 40 therms in U.S. city average, average price, not seasonally adjusted",0000
+APU000072610,"Electricity per KWH in U.S. city average, average price, not seasonally adjusted",0000
+APU000072611,"Utility (piped) gas - 100 therms in U.S. city average, average price, not seasonally adjusted",0000
+APU000072620,"Utility (piped) gas per therm in U.S. city average, average price, not seasonally adjusted",0000
+APU000072621,"Electricity per 500 KWH in U.S. city average, average price, not seasonally adjusted",0000
+APU000074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in U.S. city average, average price, not seasonally adjusted",0000
+APU000074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in U.S. city average, average price, not seasonally adjusted",0000
+APU000074714,"Gasoline, unleaded regular, per gallon/3.785 liters in U.S. city average, average price, not seasonally adjusted",0000
+APU000074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in U.S. city average, average price, not seasonally adjusted",0000
+APU000074716,"Gasoline, unleaded premium, per gallon/3.785 liters in U.S. city average, average price, not seasonally adjusted",0000
+APU000074717,"Automotive diesel fuel, per gallon/3.785 liters in U.S. city average, average price, not seasonally adjusted",0000
+APU00007471A,"Gasoline, all types, per gallon/3.785 liters in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FC1101,"All uncooked ground beef, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FC2101,"All Uncooked Beef Roasts, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FC3101,"All Uncooked Beef Steaks, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FC4101,"All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FD2101,"All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FD3101,"All Pork Chops, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FD4101,"All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FF1101,"Chicken breast, boneless, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FJ1101,"Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FJ4101,"Yogurt, per 8 oz. (226.8 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FL2101,"Lettuce, romaine, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FN1101,"All soft drinks, per 2 liters (67.6 oz) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FN1102,"All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in U.S. city average, average price, not seasonally adjusted",0000
+APU0000FS1101,"Butter, stick, per lb. (453.6 gm) in U.S. city average, average price, not seasonally adjusted",0000
+APU0100701111,"Flour, white, all purpose, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100701311,"Rice, white, long grain, precooked (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100701312,"Rice, white, long grain, uncooked, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100701321,"Spaghetti (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100701322,"Spaghetti and macaroni, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100702111,"Bread, white, pan, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100702212,"Bread, whole wheat, pan, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100702221,"Rolls, hamburger (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100702411,"Cupcakes, chocolate (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100702421,"Cookies, chocolate chip, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100702611,"Crackers, soda, salted, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703111,"Ground chuck, 100% beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703112,"Ground beef, 100% beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703113,"Ground beef, lean and extra lean, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703211,"Chuck roast, USDA Choice, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703213,"Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703311,"Round roast, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703411,"Rib roast, USDA Choice, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703421,"Steak, chuck, U.S. choice, bone-in (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703422,"Steak, T-Bone, USDA Choice, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703423,"Steak, porterhouse, U.S. choice, bone-in (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703425,"Steak, rib eye, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703431,"Short ribs, any primal source, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703432,"Beef for stew, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703511,"Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703611,"Steak, sirloin, USDA Choice, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703612,"Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100703613,"Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704111,"Bacon, sliced, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704211,"Chops, center cut, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704212,"Chops, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704311,"Ham, rump or shank half, bone-in, smoked,per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704312,"Ham, boneless, excluding canned, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704314,"Ham, shank portion, bone-in, smoked (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704321,"Ham, canned, 3 or 5 lbs, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100704413,"Shoulder picnic, bone-in, smoked, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100705111,"Frankfurters, all meat or all beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100705121,"Bologna, all beef or mixed, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100705141,"Beef liver (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100706111,"Chicken, fresh, whole, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100706211,"Chicken breast, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100706212,"Chicken legs, bone-in, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100706311,"Turkey, frozen, whole, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100707111,"Tuna, light, chunk, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100708111,"Eggs, grade A, large, per doz. in Northeast urban, average price, not seasonally adjusted",0100
+APU0100709111,"Milk, fresh, whole, fortified, per 1/2 gal. (1.9 lit) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100709112,"Milk, fresh, whole, fortified, per gal. (3.8 lit) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100709211,"Milk, fresh, skim (cost per one-half gallon/1.9 liters) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100709212,"Milk, fresh, low fat, per 1/2 gal. (1.9 lit) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100710111,"Butter, salted, grade AA, stick, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100710122,"Yogurt, natural, fruit flavored, per 8 oz. (226.8 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100710211,"American processed cheese, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100710212,"Cheddar cheese, natural, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100710411,"Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711111,"Apples, Red Delicious, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711211,"Bananas, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711311,"Oranges, Navel, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711312,"Oranges, Valencia, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711411,"Grapefruit, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711412,"Lemons, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711413,"Pears, Anjou, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711414,"Peaches, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711415,"Strawberries, dry pint, per 12 oz. (340.2 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711416,"Grapes, Emperor or Tokay (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711417,"Grapes, Thompson Seedless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100711418,"Cherries, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712111,"Potatoes, white (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712112,"Potatoes, white, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712211,"Lettuce, iceberg, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712311,"Tomatoes, field grown, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712401,"Cabbage, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712402,"Celery, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712403,"Carrots, short trimmed and topped, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712404,"Onions, dry yellow, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712405,"Onions, green scallions (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712406,"Peppers, sweet, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712407,"Corn on the cob, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712408,"Radishes (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712409,"Cucumbers, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712410,"Beans, green, snap (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100712412,"Broccoli, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100713111,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100714111,"Potatoes, frozen, French fried, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100714221,"Corn, canned, any style, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100714231,"Tomatoes, canned, whole, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100714232,"Tomatoes, canned, any type, all sizes,  per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100714233,"Beans, dried, any type, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100715111,"Hard candy, solid (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100715211,"Sugar, white, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100715212,"Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100715311,"Jelly (cost per pound/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100716114,"Margarine, stick, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100716116,"Margarine, soft, tubs, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100716121,"Shortening, vegetable oil blends, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100716141,"Peanut butter, creamy, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717111,"Cola, non-diet, return bottles, 6 or 8 pack (cost per 16 ounces/473.2 ml) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717113,"Cola, nondiet, cans, 72 oz. 6 pk., per 16 oz. (473.2 ml) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717114,"Cola, nondiet, per 2 liters (67.6 oz) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717311,"Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717312,"Coffee, 100%, ground roast, 13.1-20 oz. can, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717411,"Coffee, instant, plain, 9.1-14 ounce (cost per 16 ounces/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717412,"Coffee, instant, plain, 3.1-6 ounce (cost per 16 ounces/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100717413,"Coffee, freeze dried, plain, 3.1-9 ounce (cost per 16 ounces/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100718311,"Potato chips, per 16 oz. in Northeast urban, average price, not seasonally adjusted",0100
+APU0100718631,"Pork and beans, canned (cost per 16 ounces/453.6 grams) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100720111,"Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100720221,"Vodka, domestic, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100720222,"Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100720311,"Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in Northeast urban, average price, not seasonally adjusted",0100
+APU010072511,"Fuel oil #2 per gallon (3.785 liters) in Northeast urban, average price, not seasonally adjusted",0100
+APU010072601,"Utility (piped) gas - 40 therms in Northeast urban, average price, not seasonally adjusted",0100
+APU010072610,"Electricity per KWH in Northeast urban, average price, not seasonally adjusted",0100
+APU010072611,"Utility (piped) gas - 100 therms in Northeast urban, average price, not seasonally adjusted",0100
+APU010072620,"Utility (piped) gas per therm in Northeast urban, average price, not seasonally adjusted",0100
+APU010072621,"Electricity per 500 KWH in Northeast urban, average price, not seasonally adjusted",0100
+APU010074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Northeast urban, average price, not seasonally adjusted",0100
+APU010074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Northeast urban, average price, not seasonally adjusted",0100
+APU010074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Northeast urban, average price, not seasonally adjusted",0100
+APU010074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Northeast urban, average price, not seasonally adjusted",0100
+APU010074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Northeast urban, average price, not seasonally adjusted",0100
+APU010074717,"Automotive diesel fuel, per gallon/3.785 liters in Northeast urban, average price, not seasonally adjusted",0100
+APU01007471A,"Gasoline, all types, per gallon/3.785 liters in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FC1101,"All uncooked ground beef, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FC2101,"All Uncooked Beef Roasts, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FC3101,"All Uncooked Beef Steaks, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FC4101,"All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FD2101,"All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FD3101,"All Pork Chops, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FD4101,"All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FF1101,"Chicken breast, boneless, per lb. (453.6 gm) in Northeast urban, average price, not seasonally adjusted",0100
+APU0100FJ1101,"Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in Northeast, average price, not seasonally adjusted",0100
+APU0100FJ4101,"Yogurt, per 8 oz. (226.8 gm) in Northeast, average price, not seasonally adjusted",0100
+APU0100FN1101,"All soft drinks, per 2 liters (67.6 oz) in Northeast, average price, not seasonally adjusted",0100
+APU0100FN1102,"All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in Northeast, average price, not seasonally adjusted",0100
+APU011072511,"Fuel oil #2 per gallon (3.785 liters) in New England, average price, not seasonally adjusted",0110
+APU011072610,"Electricity per KWH in New England, average price, not seasonally adjusted",0110
+APU011072620,"Utility (piped) gas per therm in New England, average price, not seasonally adjusted",0110
+APU011074714,"Gasoline, unleaded regular, per gallon/3.785 liters in New England, average price, not seasonally adjusted",0110
+APU011074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in New England, average price, not seasonally adjusted",0110
+APU011074716,"Gasoline, unleaded premium, per gallon/3.785 liters in New England, average price, not seasonally adjusted",0110
+APU011074717,"Automotive diesel fuel, per gallon/3.785 liters in New England, average price, not seasonally adjusted",0110
+APU01107471A,"Gasoline, all types, per gallon/3.785 liters in New England, average price, not seasonally adjusted",0110
+APU012072511,"Fuel oil #2 per gallon (3.785 liters) in Middle Atlantic, average price, not seasonally adjusted",0120
+APU012072610,"Electricity per KWH in Middle Atlantic, average price, not seasonally adjusted",0120
+APU012072620,"Utility (piped) gas per therm in Middle Atlantic, average price, not seasonally adjusted",0120
+APU012074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Middle Atlantic, average price, not seasonally adjusted",0120
+APU012074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Middle Atlantic, average price, not seasonally adjusted",0120
+APU012074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Middle Atlantic, average price, not seasonally adjusted",0120
+APU012074717,"Automotive diesel fuel, per gallon/3.785 liters in Middle Atlantic, average price, not seasonally adjusted",0120
+APU01207471A,"Gasoline, all types, per gallon/3.785 liters in Middle Atlantic, average price, not seasonally adjusted",0120
+APU0200701111,"Flour, white, all purpose, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200701311,"Rice, white, long grain, precooked (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200701312,"Rice, white, long grain, uncooked, per lb. (453.6 gm) in Midwest, average price, not seasonally adjusted",0200
+APU0200701321,"Spaghetti (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200701322,"Spaghetti and macaroni, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702111,"Bread, white, pan, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702112,"Bread, French, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702211,"Bread, rye, pan (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702212,"Bread, whole wheat, pan, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702221,"Rolls, hamburger (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702411,"Cupcakes, chocolate (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702421,"Cookies, chocolate chip, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200702611,"Crackers, soda, salted, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703111,"Ground chuck, 100% beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703112,"Ground beef, 100% beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703113,"Ground beef, lean and extra lean, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703211,"Chuck roast, USDA Choice, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703212,"Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703213,"Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703311,"Round roast, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703312,"Round roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703411,"Rib roast, USDA Choice, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703421,"Steak, chuck, U.S. choice, bone-in (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703422,"Steak, T-Bone, USDA Choice, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703423,"Steak, porterhouse, U.S. choice, bone-in (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703425,"Steak, rib eye, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703431,"Short ribs, any primal source, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703432,"Beef for stew, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703511,"Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703611,"Steak, sirloin, USDA Choice, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703612,"Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200703613,"Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704111,"Bacon, sliced, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704211,"Chops, center cut, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704212,"Chops, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704311,"Ham, rump or shank half, bone-in, smoked,per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704312,"Ham, boneless, excluding canned, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704321,"Ham, canned, 3 or 5 lbs, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704411,"Pork shoulder roast, blade boston, bone-in (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704412,"Pork sirloin roast, bone-in (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704413,"Shoulder picnic, bone-in, smoked, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200704421,"Sausage, fresh, loose, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200705111,"Frankfurters, all meat or all beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200705121,"Bologna, all beef or mixed, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200705141,"Beef liver (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200706111,"Chicken, fresh, whole, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200706211,"Chicken breast, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200706212,"Chicken legs, bone-in, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200706311,"Turkey, frozen, whole, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200707111,"Tuna, light, chunk, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200708111,"Eggs, grade A, large, per doz. in Midwest urban, average price, not seasonally adjusted",0200
+APU0200709111,"Milk, fresh, whole, fortified, per 1/2 gal. (1.9 lit) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200709112,"Milk, fresh, whole, fortified, per gal. (3.8 lit) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200709211,"Milk, fresh, skim (cost per one-half gallon/1.9 liters) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200709212,"Milk, fresh, low fat, per 1/2 gal. (1.9 lit) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200709213,"Milk, fresh, low fat, per gal. (3.8 lit) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200710111,"Butter, salted, grade AA, stick, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200710122,"Yogurt, natural, fruit flavored, per 8 oz. (226.8 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200710211,"American processed cheese, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200710212,"Cheddar cheese, natural, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200710411,"Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711111,"Apples, Red Delicious, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711211,"Bananas, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711311,"Oranges, Navel, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711312,"Oranges, Valencia, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711411,"Grapefruit, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711412,"Lemons, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711413,"Pears, Anjou, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711414,"Peaches, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711415,"Strawberries, dry pint, per 12 oz. (340.2 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711416,"Grapes, Emperor or Tokay (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711417,"Grapes, Thompson Seedless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200711418,"Cherries, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712111,"Potatoes, white (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712112,"Potatoes, white, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712211,"Lettuce, iceberg, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712311,"Tomatoes, field grown, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712401,"Cabbage, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712402,"Celery, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712403,"Carrots, short trimmed and topped, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712404,"Onions, dry yellow, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712405,"Onions, green scallions (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712406,"Peppers, sweet, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712407,"Corn on the cob, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712408,"Radishes (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712409,"Cucumbers, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200712412,"Broccoli, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200713111,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200713311,"Apple Sauce, any variety, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200713312,"Peaches, any variety, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200714111,"Potatoes, frozen, French fried, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200714231,"Tomatoes, canned, whole, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200714233,"Beans, dried, any type, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200715111,"Hard candy, solid (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200715211,"Sugar, white, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200715212,"Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200715311,"Jelly (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200716111,"Margarine, vegetable oil blends, stick (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200716113,"Margarine, vegetable oil blends, soft, tubs (cost per pound/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200716114,"Margarine, stick, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200716116,"Margarine, soft, tubs, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200716121,"Shortening, vegetable oil blends, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200716141,"Peanut butter, creamy, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717111,"Cola, non-diet, return bottles, 6 or 8 pack (cost per 16 ounces/473.2 ml) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717113,"Cola, nondiet, cans, 72 oz. 6 pk., per 16 oz. (473.2 ml) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717114,"Cola, nondiet, per 2 liters (67.6 oz) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717311,"Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717312,"Coffee, 100%, ground roast, 13.1-20 oz. can, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717324,"Coffee, instant, plain, regular, 6.1-14 ounce (cost per 16 ounces/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717325,"Coffee, freeze dried, regular, all sizes (cost per 16 ounces/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717326,"Coffee, freeze dried, decaf., all sizes (cost per 16 ounces/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717327,"Coffee, instant, plain, regular, all sizes, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717411,"Coffee, instant, plain, 9.1-14 ounce (cost per 16 ounces/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200717413,"Coffee, freeze dried, plain, 3.1-9 ounce (cost per 16 ounces/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200718311,"Potato chips, per 16 oz. in Midwest urban, average price, not seasonally adjusted",0200
+APU0200718631,"Pork and beans, canned (cost per 16 ounces/453.6 grams) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200720111,"Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200720221,"Vodka, domestic, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200720222,"Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200720311,"Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in Midwest urban, average price, not seasonally adjusted",0200
+APU020072511,"Fuel oil #2 per gallon (3.785 liters) in Midwest urban, average price, not seasonally adjusted",0200
+APU020072601,"Utility (piped) gas - 40 therms in Midwest urban, average price, not seasonally adjusted",0200
+APU020072610,"Electricity per KWH in Midwest urban, average price, not seasonally adjusted",0200
+APU020072611,"Utility (piped) gas - 100 therms in Midwest urban, average price, not seasonally adjusted",0200
+APU020072620,"Utility (piped) gas per therm in Midwest urban, average price, not seasonally adjusted",0200
+APU020072621,"Electricity per 500 KWH in Midwest urban, average price, not seasonally adjusted",0200
+APU020074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Midwest urban, average price, not seasonally adjusted",0200
+APU020074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Midwest urban, average price, not seasonally adjusted",0200
+APU020074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Midwest urban, average price, not seasonally adjusted",0200
+APU020074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Midwest urban, average price, not seasonally adjusted",0200
+APU020074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Midwest urban, average price, not seasonally adjusted",0200
+APU020074717,"Automotive diesel fuel, per gallon/3.785 liters in Midwest urban, average price, not seasonally adjusted",0200
+APU02007471A,"Gasoline, all types, per gallon/3.785 liters in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FC1101,"All uncooked ground beef, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FC2101,"All Uncooked Beef Roasts, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FC3101,"All Uncooked Beef Steaks, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FC4101,"All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FD2101,"All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FD3101,"All Pork Chops, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FD4101,"All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FF1101,"Chicken breast, boneless, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FJ1101,"Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in Midwest, average price, not seasonally adjusted",0200
+APU0200FJ4101,"Yogurt, per 8 oz. (226.8 gm) in Midwest, average price, not seasonally adjusted",0200
+APU0200FL2101,"Lettuce, romaine, per lb. (453.6 gm) in Midwest urban, average price, not seasonally adjusted",0200
+APU0200FN1101,"All soft drinks, per 2 liters (67.6 oz) in Midwest, average price, not seasonally adjusted",0200
+APU0200FN1102,"All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in Midwest, average price, not seasonally adjusted",0200
+APU0200FS1101,"Butter, stick, per lb. (453.6 gm) in Midwest, average price, not seasonally adjusted",0200
+APU023072511,"Fuel oil #2 per gallon (3.785 liters) in East North Central, average price, not seasonally adjusted",0230
+APU023072610,"Electricity per KWH in East North Central, average price, not seasonally adjusted",0230
+APU023072620,"Utility (piped) gas per therm in East North Central, average price, not seasonally adjusted",0230
+APU023074714,"Gasoline, unleaded regular, per gallon/3.785 liters in East North Central, average price, not seasonally adjusted",0230
+APU023074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in East North Central, average price, not seasonally adjusted",0230
+APU023074716,"Gasoline, unleaded premium, per gallon/3.785 liters in East North Central, average price, not seasonally adjusted",0230
+APU023074717,"Automotive diesel fuel, per gallon/3.785 liters in East North Central, average price, not seasonally adjusted",0230
+APU02307471A,"Gasoline, all types, per gallon/3.785 liters in East North Central, average price, not seasonally adjusted",0230
+APU024072511,"Fuel oil #2 per gallon (3.785 liters) in West North Central, average price, not seasonally adjusted",0240
+APU024072610,"Electricity per KWH in West North Central, average price, not seasonally adjusted",0240
+APU024072620,"Utility (piped) gas per therm in West North Central, average price, not seasonally adjusted",0240
+APU024074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West North Central, average price, not seasonally adjusted",0240
+APU024074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in West North Central, average price, not seasonally adjusted",0240
+APU024074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West North Central, average price, not seasonally adjusted",0240
+APU024074717,"Automotive diesel fuel, per gallon/3.785 liters in West North Central, average price, not seasonally adjusted",0240
+APU02407471A,"Gasoline, all types, per gallon/3.785 liters in West North Central, average price, not seasonally adjusted",0240
+APU0300701111,"Flour, white, all purpose, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300701312,"Rice, white, long grain, uncooked, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300701321,"Spaghetti (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300701322,"Spaghetti and macaroni, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300702111,"Bread, white, pan, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300702112,"Bread, French, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300702211,"Bread, rye, pan (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300702212,"Bread, whole wheat, pan, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300702213,"Bread, wheat blend, pan (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300702221,"Rolls, hamburger (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300702411,"Cupcakes, chocolate (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300702421,"Cookies, chocolate chip, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300702611,"Crackers, soda, salted, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703111,"Ground chuck, 100% beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703112,"Ground beef, 100% beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703113,"Ground beef, lean and extra lean, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703211,"Chuck roast, USDA Choice, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703212,"Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703213,"Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703311,"Round roast, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703312,"Round roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703411,"Rib roast, USDA Choice, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703421,"Steak, chuck, U.S. choice, bone-in (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300703422,"Steak, T-Bone, USDA Choice, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703423,"Steak, porterhouse, U.S. choice, bone-in (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300703425,"Steak, rib eye, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703431,"Short ribs, any primal source, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703432,"Beef for stew, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703511,"Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703611,"Steak, sirloin, USDA Choice, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703612,"Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300703613,"Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704111,"Bacon, sliced, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704211,"Chops, center cut, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704212,"Chops, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704311,"Ham, rump or shank half, bone-in, smoked,per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704312,"Ham, boneless, excluding canned, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704313,"Ham, rump portion, bone-in, smoked (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300704314,"Ham, shank portion, bone-in, smoked (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300704321,"Ham, canned, 3 or 5 lbs, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704411,"Pork shoulder roast, blade boston, bone-in (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300704412,"Pork sirloin roast, bone-in (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300704413,"Shoulder picnic, bone-in, smoked, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300704421,"Sausage, fresh, loose, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300705111,"Frankfurters, all meat or all beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300705121,"Bologna, all beef or mixed, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300705141,"Beef liver (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300706111,"Chicken, fresh, whole, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300706211,"Chicken breast, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300706212,"Chicken legs, bone-in, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300706311,"Turkey, frozen, whole, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300707111,"Tuna, light, chunk, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300708111,"Eggs, grade A, large, per doz. in South urban, average price, not seasonally adjusted",0300
+APU0300709111,"Milk, fresh, whole, fortified, per 1/2 gal. (1.9 lit) in South urban, average price, not seasonally adjusted",0300
+APU0300709112,"Milk, fresh, whole, fortified, per gal. (3.8 lit) in South urban, average price, not seasonally adjusted",0300
+APU0300709211,"Milk, fresh, skim (cost per one-half gallon/1.9 liters) in South urban, average price, not seasonally adjusted",0300
+APU0300709212,"Milk, fresh, low fat, per 1/2 gal. (1.9 lit) in South urban, average price, not seasonally adjusted",0300
+APU0300709213,"Milk, fresh, low fat, per gal. (3.8 lit) in South urban, average price, not seasonally adjusted",0300
+APU0300710111,"Butter, salted, grade AA, stick, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300710122,"Yogurt, natural, fruit flavored, per 8 oz. (226.8 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300710211,"American processed cheese, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300710212,"Cheddar cheese, natural, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300710411,"Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in South urban, average price, not seasonally adjusted",0300
+APU0300711111,"Apples, Red Delicious, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711211,"Bananas, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711311,"Oranges, Navel, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711312,"Oranges, Valencia, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711411,"Grapefruit, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711412,"Lemons, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711413,"Pears, Anjou, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711414,"Peaches, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711415,"Strawberries, dry pint, per 12 oz. (340.2 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711416,"Grapes, Emperor or Tokay (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300711417,"Grapes, Thompson Seedless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300711418,"Cherries, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712111,"Potatoes, white (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300712112,"Potatoes, white, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712211,"Lettuce, iceberg, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712311,"Tomatoes, field grown, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712401,"Cabbage, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712402,"Celery, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712403,"Carrots, short trimmed and topped, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712404,"Onions, dry yellow, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712405,"Onions, green scallions (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300712406,"Peppers, sweet, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712407,"Corn on the cob, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712408,"Radishes (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300712409,"Cucumbers, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300712410,"Beans, green, snap (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300712412,"Broccoli, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300713111,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in South urban, average price, not seasonally adjusted",0300
+APU0300713311,"Apple Sauce, any variety, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300713312,"Peaches, any variety, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300714111,"Potatoes, frozen, French fried, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300714221,"Corn, canned, any style, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300714231,"Tomatoes, canned, whole, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300714232,"Tomatoes, canned, any type, all sizes,  per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300714233,"Beans, dried, any type, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300715111,"Hard candy, solid (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300715211,"Sugar, white, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300715212,"Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300715311,"Jelly (cost per pound/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300716114,"Margarine, stick, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300716116,"Margarine, soft, tubs, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300716121,"Shortening, vegetable oil blends, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300716141,"Peanut butter, creamy, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300717111,"Cola, non-diet, return bottles, 6 or 8 pack (cost per 16 ounces/473.2 ml) in South urban, average price, not seasonally adjusted",0300
+APU0300717112,"Cola, non diet, return bottles, 24-40 ounce (cost per 16 ounces/473.2 ml) in South urban, average price, not seasonally adjusted",0300
+APU0300717113,"Cola, nondiet, cans, 72 oz. 6 pk., per 16 oz. (473.2 ml) in South urban, average price, not seasonally adjusted",0300
+APU0300717114,"Cola, nondiet, per 2 liters (67.6 oz) in South urban, average price, not seasonally adjusted",0300
+APU0300717311,"Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300717312,"Coffee, 100%, ground roast, 13.1-20 oz. can, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300717324,"Coffee, instant, plain, regular, 6.1-14 ounce (cost per 16 ounces/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300717325,"Coffee, freeze dried, regular, all sizes (cost per 16 ounces/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300717327,"Coffee, instant, plain, regular, all sizes, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300717411,"Coffee, instant, plain, 9.1-14 ounce (cost per 16 ounces/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300717412,"Coffee, instant, plain, 3.1-6 ounce (cost per 16 ounces/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300717413,"Coffee, freeze dried, plain, 3.1-9 ounce (cost per 16 ounces/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300718311,"Potato chips, per 16 oz. in South urban, average price, not seasonally adjusted",0300
+APU0300718631,"Pork and beans, canned (cost per 16 ounces/453.6 grams) in South urban, average price, not seasonally adjusted",0300
+APU0300720111,"Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in South urban, average price, not seasonally adjusted",0300
+APU0300720211,"Bourbon whiskey, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in South urban, average price, not seasonally adjusted",0300
+APU0300720311,"Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in South urban, average price, not seasonally adjusted",0300
+APU030072511,"Fuel oil #2 per gallon (3.785 liters) in South urban, average price, not seasonally adjusted",0300
+APU030072601,"Utility (piped) gas - 40 therms in South urban, average price, not seasonally adjusted",0300
+APU030072610,"Electricity per KWH in South urban, average price, not seasonally adjusted",0300
+APU030072611,"Utility (piped) gas - 100 therms in South urban, average price, not seasonally adjusted",0300
+APU030072620,"Utility (piped) gas per therm in South urban, average price, not seasonally adjusted",0300
+APU030072621,"Electricity per 500 KWH in South urban, average price, not seasonally adjusted",0300
+APU030074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in South urban, average price, not seasonally adjusted",0300
+APU030074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in South urban, average price, not seasonally adjusted",0300
+APU030074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South urban, average price, not seasonally adjusted",0300
+APU030074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South urban, average price, not seasonally adjusted",0300
+APU030074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South urban, average price, not seasonally adjusted",0300
+APU030074717,"Automotive diesel fuel, per gallon/3.785 liters in South urban, average price, not seasonally adjusted",0300
+APU03007471A,"Gasoline, all types, per gallon/3.785 liters in South urban, average price, not seasonally adjusted",0300
+APU0300FC1101,"All uncooked ground beef, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FC2101,"All Uncooked Beef Roasts, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FC3101,"All Uncooked Beef Steaks, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FC4101,"All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FD2101,"All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FD3101,"All Pork Chops, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FD4101,"All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FF1101,"Chicken breast, boneless, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FJ1101,"Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in South, average price, not seasonally adjusted",0300
+APU0300FJ4101,"Yogurt, per 8 oz. (226.8 gm) in South, average price, not seasonally adjusted",0300
+APU0300FL2101,"Lettuce, romaine, per lb. (453.6 gm) in South urban, average price, not seasonally adjusted",0300
+APU0300FN1101,"All soft drinks, per 2 liters (67.6 oz) in South, average price, not seasonally adjusted",0300
+APU0300FN1102,"All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in South, average price, not seasonally adjusted",0300
+APU035072511,"Fuel oil #2 per gallon (3.785 liters) in South Atlantic, average price, not seasonally adjusted",0350
+APU035072610,"Electricity per KWH in South Atlantic, average price, not seasonally adjusted",0350
+APU035072620,"Utility (piped) gas per therm in South Atlantic, average price, not seasonally adjusted",0350
+APU035074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South Atlantic, average price, not seasonally adjusted",0350
+APU035074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South Atlantic, average price, not seasonally adjusted",0350
+APU035074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South Atlantic, average price, not seasonally adjusted",0350
+APU035074717,"Automotive diesel fuel, per gallon/3.785 liters in South Atlantic, average price, not seasonally adjusted",0350
+APU03507471A,"Gasoline, all types, per gallon/3.785 liters in South Atlantic, average price, not seasonally adjusted",0350
+APU036072610,"Electricity per KWH in East South Central, average price, not seasonally adjusted",0360
+APU036072620,"Utility (piped) gas per therm in East South Central, average price, not seasonally adjusted",0360
+APU036074714,"Gasoline, unleaded regular, per gallon/3.785 liters in East South Central, average price, not seasonally adjusted",0360
+APU036074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in East South Central, average price, not seasonally adjusted",0360
+APU036074716,"Gasoline, unleaded premium, per gallon/3.785 liters in East South Central, average price, not seasonally adjusted",0360
+APU036074717,"Automotive diesel fuel, per gallon/3.785 liters in East South Central, average price, not seasonally adjusted",0360
+APU03607471A,"Gasoline, all types, per gallon/3.785 liters in East South Central, average price, not seasonally adjusted",0360
+APU037072610,"Electricity per KWH in West South Central, average price, not seasonally adjusted",0370
+APU037072620,"Utility (piped) gas per therm in West South Central, average price, not seasonally adjusted",0370
+APU037074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West South Central, average price, not seasonally adjusted",0370
+APU037074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in West South Central, average price, not seasonally adjusted",0370
+APU037074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West South Central, average price, not seasonally adjusted",0370
+APU037074717,"Automotive diesel fuel, per gallon/3.785 liters in West South Central, average price, not seasonally adjusted",0370
+APU03707471A,"Gasoline, all types, per gallon/3.785 liters in West South Central, average price, not seasonally adjusted",0370
+APU0400701111,"Flour, white, all purpose, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400701311,"Rice, white, long grain, precooked (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400701312,"Rice, white, long grain, uncooked, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400701322,"Spaghetti and macaroni, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400702111,"Bread, white, pan, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400702112,"Bread, French, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400702212,"Bread, whole wheat, pan, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400702213,"Bread, wheat blend, pan (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400702221,"Rolls, hamburger (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400702411,"Cupcakes, chocolate (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400702421,"Cookies, chocolate chip, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400702611,"Crackers, soda, salted, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703111,"Ground chuck, 100% beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703112,"Ground beef, 100% beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703113,"Ground beef, lean and extra lean, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703211,"Chuck roast, USDA Choice, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703212,"Chuck roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703213,"Chuck roast, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703311,"Round roast, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703312,"Round roast, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703411,"Rib roast, USDA Choice, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703421,"Steak, chuck, U.S. choice, bone-in (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400703422,"Steak, T-Bone, USDA Choice, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703432,"Beef for stew, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703511,"Steak, round, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703612,"Steak, sirloin, graded and ungraded, excluding USDA Prime and Choice, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400703613,"Steak, sirloin, USDA Choice, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704111,"Bacon, sliced, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704211,"Chops, center cut, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704212,"Chops, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704311,"Ham, rump or shank half, bone-in, smoked,per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704312,"Ham, boneless, excluding canned, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704313,"Ham, rump portion, bone-in, smoked (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400704314,"Ham, shank portion, bone-in, smoked (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400704321,"Ham, canned, 3 or 5 lbs, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704412,"Pork sirloin roast, bone-in (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400704413,"Shoulder picnic, bone-in, smoked, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400704421,"Sausage, fresh, loose, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400705111,"Frankfurters, all meat or all beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400705121,"Bologna, all beef or mixed, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400705141,"Beef liver (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400706111,"Chicken, fresh, whole, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400706211,"Chicken breast, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400706212,"Chicken legs, bone-in, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400706311,"Turkey, frozen, whole, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400707111,"Tuna, light, chunk, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400708112,"Eggs, grade AA, large, per doz. in West urban, average price, not seasonally adjusted",0400
+APU0400709111,"Milk, fresh, whole, fortified, per 1/2 gal. (1.9 lit) in West urban, average price, not seasonally adjusted",0400
+APU0400709112,"Milk, fresh, whole, fortified, per gal. (3.8 lit) in West urban, average price, not seasonally adjusted",0400
+APU0400709211,"Milk, fresh, skim (cost per one-half gallon/1.9 liters) in West urban, average price, not seasonally adjusted",0400
+APU0400709212,"Milk, fresh, low fat, per 1/2 gal. (1.9 lit) in West urban, average price, not seasonally adjusted",0400
+APU0400709213,"Milk, fresh, low fat, per gal. (3.8 lit) in West urban, average price, not seasonally adjusted",0400
+APU0400710111,"Butter, salted, grade AA, stick, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400710122,"Yogurt, natural, fruit flavored, per 8 oz. (226.8 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400710211,"American processed cheese, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400710212,"Cheddar cheese, natural, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400710411,"Ice cream, prepackaged, bulk, regular, per 1/2 gal. (1.9 lit) in West urban, average price, not seasonally adjusted",0400
+APU0400711111,"Apples, Red Delicious, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711211,"Bananas, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711311,"Oranges, Navel, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711312,"Oranges, Valencia, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711411,"Grapefruit, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711412,"Lemons, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711413,"Pears, Anjou, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711414,"Peaches, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711415,"Strawberries, dry pint, per 12 oz. (340.2 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711416,"Grapes, Emperor or Tokay (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400711417,"Grapes, Thompson Seedless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400711418,"Cherries, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712111,"Potatoes, white (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400712112,"Potatoes, white, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712211,"Lettuce, iceberg, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712311,"Tomatoes, field grown, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712401,"Cabbage, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712402,"Celery, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712403,"Carrots, short trimmed and topped, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712404,"Onions, dry yellow, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712406,"Peppers, sweet, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712407,"Corn on the cob, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712408,"Radishes (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400712409,"Cucumbers, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400712410,"Beans, green, snap (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400712411,"Mushrooms (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400712412,"Broccoli, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400713111,"Orange juice, frozen concentrate, 12 oz. can, per 16 oz. (473.2 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400714111,"Potatoes, frozen, French fried, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400714231,"Tomatoes, canned, whole, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400714232,"Tomatoes, canned, any type, all sizes,  per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400714233,"Beans, dried, any type, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400715111,"Hard candy, solid (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400715211,"Sugar, white, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400715212,"Sugar, white, 33-80 oz. pkg, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400716111,"Margarine, vegetable oil blends, stick (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400716113,"Margarine, vegetable oil blends, soft, tubs (cost per pound/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400716114,"Margarine, stick, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400716116,"Margarine, soft, tubs, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400716121,"Shortening, vegetable oil blends, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400716141,"Peanut butter, creamy, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400717111,"Cola, non-diet, return bottles, 6 or 8 pack (cost per 16 ounces/473.2 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400717112,"Cola, non diet, return bottles, 24-40 ounce (cost per 16 ounces/473.2 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400717113,"Cola, nondiet, cans, 72 oz. 6 pk., per 16 oz. (473.2 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400717114,"Cola, nondiet, per 2 liters (67.6 oz) in West urban, average price, not seasonally adjusted",0400
+APU0400717311,"Coffee, 100%, ground roast, all sizes, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400717312,"Coffee, 100%, ground roast, 13.1-20 oz. can, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400717324,"Coffee, instant, plain, regular, 6.1-14 ounce (cost per 16 ounces/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400717325,"Coffee, freeze dried, regular, all sizes (cost per 16 ounces/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400717326,"Coffee, freeze dried, decaf., all sizes (cost per 16 ounces/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400717411,"Coffee, instant, plain, 9.1-14 ounce (cost per 16 ounces/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400717413,"Coffee, freeze dried, plain, 3.1-9 ounce (cost per 16 ounces/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400718311,"Potato chips, per 16 oz. in West urban, average price, not seasonally adjusted",0400
+APU0400718631,"Pork and beans, canned (cost per 16 ounces/453.6 grams) in West urban, average price, not seasonally adjusted",0400
+APU0400720111,"Malt beverages, all types, all sizes, any origin, per 16 oz. (473.2 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400720211,"Bourbon whiskey, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400720221,"Vodka, domestic, 375 ml-1.75 liter (cost per 25.4 ounces/750 ml) in West urban, average price, not seasonally adjusted",0400
+APU0400720222,"Vodka, all types, all sizes, any origin, per 1 liter (33.8 oz) in West urban, average price, not seasonally adjusted",0400
+APU0400720311,"Wine, red and white table, all sizes, any origin, per 1 liter (33.8 oz) in West urban, average price, not seasonally adjusted",0400
+APU040072511,"Fuel oil #2 per gallon (3.785 liters) in West urban, average price, not seasonally adjusted",0400
+APU040072601,"Utility (piped) gas - 40 therms in West urban, average price, not seasonally adjusted",0400
+APU040072610,"Electricity per KWH in West urban, average price, not seasonally adjusted",0400
+APU040072611,"Utility (piped) gas - 100 therms in West urban, average price, not seasonally adjusted",0400
+APU040072620,"Utility (piped) gas per therm in West urban, average price, not seasonally adjusted",0400
+APU040072621,"Electricity per 500 KWH in West urban, average price, not seasonally adjusted",0400
+APU040074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in West urban, average price, not seasonally adjusted",0400
+APU040074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in West urban, average price, not seasonally adjusted",0400
+APU040074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West urban, average price, not seasonally adjusted",0400
+APU040074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in West urban, average price, not seasonally adjusted",0400
+APU040074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West urban, average price, not seasonally adjusted",0400
+APU040074717,"Automotive diesel fuel, per gallon/3.785 liters in West urban, average price, not seasonally adjusted",0400
+APU04007471A,"Gasoline, all types, per gallon/3.785 liters in West urban, average price, not seasonally adjusted",0400
+APU0400FC1101,"All uncooked ground beef, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FC2101,"All Uncooked Beef Roasts, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FC3101,"All Uncooked Beef Steaks, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FC4101,"All Uncooked Other Beef (Excluding Veal), per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FD2101,"All Ham (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FD3101,"All Pork Chops, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FD4101,"All Other Pork (Excluding Canned Ham and Luncheon Slices), per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FF1101,"Chicken breast, boneless, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FJ1101,"Milk, fresh, low-fat, reduced fat, skim, per gal. (3.8 lit) in West, average price, not seasonally adjusted",0400
+APU0400FJ4101,"Yogurt, per 8 oz. (226.8 gm) in West, average price, not seasonally adjusted",0400
+APU0400FL2101,"Lettuce, romaine, per lb. (453.6 gm) in West urban, average price, not seasonally adjusted",0400
+APU0400FN1101,"All soft drinks, per 2 liters (67.6 oz) in West, average price, not seasonally adjusted",0400
+APU0400FN1102,"All soft drinks, 12 pk, 12 oz., cans, per 12 oz. (354.9 ml) in West, average price, not seasonally adjusted",0400
+APU0400FS1101,"Butter, stick, per lb. (453.6 gm) in West, average price, not seasonally adjusted",0400
+APU048072610,"Electricity per KWH in Mountain, average price, not seasonally adjusted",0480
+APU048072620,"Utility (piped) gas per therm in Mountain, average price, not seasonally adjusted",0480
+APU048074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Mountain, average price, not seasonally adjusted",0480
+APU048074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Mountain, average price, not seasonally adjusted",0480
+APU048074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Mountain, average price, not seasonally adjusted",0480
+APU048074717,"Automotive diesel fuel, per gallon/3.785 liters in Mountain, average price, not seasonally adjusted",0480
+APU04807471A,"Gasoline, all types, per gallon/3.785 liters in Mountain, average price, not seasonally adjusted",0480
+APU049072511,"Fuel oil #2 per gallon (3.785 liters) in Pacific, average price, not seasonally adjusted",0490
+APU049072610,"Electricity per KWH in Pacific, average price, not seasonally adjusted",0490
+APU049072620,"Utility (piped) gas per therm in Pacific, average price, not seasonally adjusted",0490
+APU049074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Pacific, average price, not seasonally adjusted",0490
+APU049074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Pacific, average price, not seasonally adjusted",0490
+APU049074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Pacific, average price, not seasonally adjusted",0490
+APU049074717,"Automotive diesel fuel, per gallon/3.785 liters in Pacific, average price, not seasonally adjusted",0490
+APU04907471A,"Gasoline, all types, per gallon/3.785 liters in Pacific, average price, not seasonally adjusted",0490
+APUA10472511,"Fuel oil #2 per gallon (3.785 liters) in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10472601,"Utility (piped) gas - 40 therms in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10472610,"Electricity per KWH in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10472611,"Utility (piped) gas - 100 therms in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10472620,"Utility (piped) gas per therm in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10472621,"Electricity per 500 KWH in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10474712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10474713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10474714,"Gasoline, unleaded regular, per gallon/3.785 liters in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10474715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10474716,"Gasoline, unleaded premium, per gallon/3.785 liters in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA1047471A,"Gasoline, all types, per gallon/3.785 liters in Pittsburgh, PA, average price, not seasonally adjusted",A104
+APUA10572511,"Fuel oil #2 per gallon (3.785 liters) in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10572601,"Utility (piped) gas - 40 therms in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10572610,"Electricity per KWH in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10572611,"Utility (piped) gas - 100 therms in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10572620,"Utility (piped) gas per therm in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10572621,"Electricity per 500 KWH in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10574712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10574713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10574714,"Gasoline, unleaded regular, per gallon/3.785 liters in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10574716,"Gasoline, unleaded premium, per gallon/3.785 liters in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA1057471A,"Gasoline, all types, per gallon/3.785 liters in Buffalo-Niagara Falls, NY, average price, not seasonally adjusted",A105
+APUA10672511,"Fuel oil #2 per gallon (3.785 liters) in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10672601,"Utility (piped) gas - 40 therms in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10672610,"Electricity per KWH in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10672611,"Utility (piped) gas - 100 therms in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10672620,"Utility (piped) gas per therm in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10672621,"Electricity per 500 KWH in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10674712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10674713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10674714,"Gasoline, unleaded regular, per gallon/3.785 liters in Scranton, PA, average price, not seasonally adjusted",A106
+APUA10674716,"Gasoline, unleaded premium, per gallon/3.785 liters in Scranton, PA, average price, not seasonally adjusted",A106
+APUA1067471A,"Gasoline, all types, per gallon/3.785 liters in Scranton, PA, average price, not seasonally adjusted",A106
+APUA21072511,"Fuel oil #2 per gallon (3.785 liters) in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21072601,"Utility (piped) gas - 40 therms in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21072610,"Electricity per KWH in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21072611,"Utility (piped) gas - 100 therms in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21072620,"Utility (piped) gas per therm in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21072621,"Electricity per 500 KWH in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA2107471A,"Gasoline, all types, per gallon/3.785 liters in Cleveland-Akron, OH, average price, not seasonally adjusted",A210
+APUA21272511,"Fuel oil #2 per gallon (3.785 liters) in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21272601,"Utility (piped) gas - 40 therms in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21272610,"Electricity per KWH in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21272611,"Utility (piped) gas - 100 therms in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21272620,"Utility (piped) gas per therm in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21272621,"Electricity per 500 KWH in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21274712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21274713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21274714,"Gasoline, unleaded regular, per gallon/3.785 liters in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21274716,"Gasoline, unleaded premium, per gallon/3.785 liters in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA2127471A,"Gasoline, all types, per gallon/3.785 liters in Milwaukee-Racine, WI, average price, not seasonally adjusted",A212
+APUA21372511,"Fuel oil #2 per gallon (3.785 liters) in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21372601,"Utility (piped) gas - 40 therms in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21372610,"Electricity per KWH in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21372611,"Utility (piped) gas - 100 therms in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21372620,"Utility (piped) gas per therm in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21372621,"Electricity per 500 KWH in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21374712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21374713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21374714,"Gasoline, unleaded regular, per gallon/3.785 liters in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21374716,"Gasoline, unleaded premium, per gallon/3.785 liters in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA2137471A,"Gasoline, all types, per gallon/3.785 liters in Cincinnati-Hamilton, OH-KY-IN, average price, not seasonally adjusted",A213
+APUA21472601,"Utility (piped) gas - 40 therms in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21472610,"Electricity per KWH in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21472611,"Utility (piped) gas - 100 therms in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21472620,"Utility (piped) gas per therm in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21472621,"Electricity per 500 KWH in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21474712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21474713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21474714,"Gasoline, unleaded regular, per gallon/3.785 liters in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA21474716,"Gasoline, unleaded premium, per gallon/3.785 liters in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA2147471A,"Gasoline, all types, per gallon/3.785 liters in Kansas City, MO-KS, average price, not seasonally adjusted",A214
+APUA31172601,"Utility (piped) gas - 40 therms in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31172610,"Electricity per KWH in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31172611,"Utility (piped) gas - 100 therms in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31172620,"Utility (piped) gas per therm in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31172621,"Electricity per 500 KWH in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31174714,"Gasoline, unleaded regular, per gallon/3.785 liters in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31174715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31174716,"Gasoline, unleaded premium, per gallon/3.785 liters in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA3117471A,"Gasoline, all types, per gallon/3.785 liters in Washington-Baltimore, DC-MD-VA-WV, average price, not seasonally adjusted",A311
+APUA31572511,"Fuel oil #2 per gallon (3.785 liters) in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31572601,"Utility (piped) gas - 40 therms in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31572610,"Electricity per KWH in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31572611,"Utility (piped) gas - 100 therms in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31572620,"Utility (piped) gas per therm in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31572621,"Electricity per 500 KWH in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31574712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31574713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31574714,"Gasoline, unleaded regular, per gallon/3.785 liters in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31574715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31574716,"Gasoline, unleaded premium, per gallon/3.785 liters in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA3157471A,"Gasoline, all types, per gallon/3.785 liters in Washington, DC-MD-VA, average price, not seasonally adjusted",A315
+APUA31772511,"Fuel oil #2 per gallon (3.785 liters) in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31772601,"Utility (piped) gas - 40 therms in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31772610,"Electricity per KWH in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31772611,"Utility (piped) gas - 100 therms in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31772620,"Utility (piped) gas per therm in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31772621,"Electricity per 500 KWH in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31774712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31774713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31774714,"Gasoline, unleaded regular, per gallon/3.785 liters in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31774715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA31774716,"Gasoline, unleaded premium, per gallon/3.785 liters in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA3177471A,"Gasoline, all types, per gallon/3.785 liters in Baltimore, MD, average price, not seasonally adjusted",A317
+APUA42172601,"Utility (piped) gas - 40 therms in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42172610,"Electricity per KWH in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42172611,"Utility (piped) gas - 100 therms in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42172620,"Utility (piped) gas per therm in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42172621,"Electricity per 500 KWH in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42174712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42174713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42174714,"Gasoline, unleaded regular, per gallon/3.785 liters in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42174715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42174716,"Gasoline, unleaded premium, per gallon/3.785 liters in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA4217471A,"Gasoline, all types, per gallon/3.785 liters in Los Angeles-Riverside-Orange County, CA, average price, not seasonally adjusted",A421
+APUA42572511,"Fuel oil #2 per gallon (3.785 liters) in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42572601,"Utility (piped) gas - 40 therms in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42572610,"Electricity per KWH in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42572611,"Utility (piped) gas - 100 therms in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42572620,"Utility (piped) gas per therm in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42572621,"Electricity per 500 KWH in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42574712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42574713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42574714,"Gasoline, unleaded regular, per gallon/3.785 liters in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA42574716,"Gasoline, unleaded premium, per gallon/3.785 liters in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUA4257471A,"Gasoline, all types, per gallon/3.785 liters in Portland-Salem, OR-WA, average price, not seasonally adjusted",A425
+APUB00072511,"Fuel oil #2 per gallon (3.785 liters) in City size B, average price, not seasonally adjusted",B000
+APUB00072601,"Utility (piped) gas - 40 therms in City size B, average price, not seasonally adjusted",B000
+APUB00072610,"Electricity per KWH in City size B, average price, not seasonally adjusted",B000
+APUB00072611,"Utility (piped) gas - 100 therms in City size B, average price, not seasonally adjusted",B000
+APUB00072620,"Utility (piped) gas per therm in City size B, average price, not seasonally adjusted",B000
+APUB00072621,"Electricity per 500 KWH in City size B, average price, not seasonally adjusted",B000
+APUB00074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in City size B, average price, not seasonally adjusted",B000
+APUB00074714,"Gasoline, unleaded regular, per gallon/3.785 liters in City size B, average price, not seasonally adjusted",B000
+APUB00074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in City size B, average price, not seasonally adjusted",B000
+APUB00074716,"Gasoline, unleaded premium, per gallon/3.785 liters in City size B, average price, not seasonally adjusted",B000
+APUB0007471A,"Gasoline, all types, per gallon/3.785 liters in City size B, average price, not seasonally adjusted",B000
+APUB10072511,"Fuel oil #2 per gallon (3.785 liters) in Northeast size B, average price, not seasonally adjusted",B100
+APUB10072601,"Utility (piped) gas - 40 therms in Northeast size B, average price, not seasonally adjusted",B100
+APUB10072610,"Electricity per KWH in Northeast size B, average price, not seasonally adjusted",B100
+APUB10072611,"Utility (piped) gas - 100 therms in Northeast size B, average price, not seasonally adjusted",B100
+APUB10072620,"Utility (piped) gas per therm in Northeast size B, average price, not seasonally adjusted",B100
+APUB10072621,"Electricity per 500 KWH in Northeast size B, average price, not seasonally adjusted",B100
+APUB10074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Northeast size B, average price, not seasonally adjusted",B100
+APUB10074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Northeast size B, average price, not seasonally adjusted",B100
+APUB10074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Northeast size B, average price, not seasonally adjusted",B100
+APUB10074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Northeast size B, average price, not seasonally adjusted",B100
+APUB10074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Northeast size B, average price, not seasonally adjusted",B100
+APUB1007471A,"Gasoline, all types, per gallon/3.785 liters in Northeast size B, average price, not seasonally adjusted",B100
+APUB20072511,"Fuel oil #2 per gallon (3.785 liters) in North Central size B, average price, not seasonally adjusted",B200
+APUB20072601,"Utility (piped) gas - 40 therms in North Central size B, average price, not seasonally adjusted",B200
+APUB20072610,"Electricity per KWH in North Central size B, average price, not seasonally adjusted",B200
+APUB20072611,"Utility (piped) gas - 100 therms in North Central size B, average price, not seasonally adjusted",B200
+APUB20072620,"Utility (piped) gas per therm in North Central size B, average price, not seasonally adjusted",B200
+APUB20072621,"Electricity per 500 KWH in North Central size B, average price, not seasonally adjusted",B200
+APUB20074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in North Central size B, average price, not seasonally adjusted",B200
+APUB20074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in North Central size B, average price, not seasonally adjusted",B200
+APUB20074714,"Gasoline, unleaded regular, per gallon/3.785 liters in North Central size B, average price, not seasonally adjusted",B200
+APUB20074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in North Central size B, average price, not seasonally adjusted",B200
+APUB20074716,"Gasoline, unleaded premium, per gallon/3.785 liters in North Central size B, average price, not seasonally adjusted",B200
+APUB2007471A,"Gasoline, all types, per gallon/3.785 liters in North Central size B, average price, not seasonally adjusted",B200
+APUB30072511,"Fuel oil #2 per gallon (3.785 liters) in South size B, average price, not seasonally adjusted",B300
+APUB30072601,"Utility (piped) gas - 40 therms in South size B, average price, not seasonally adjusted",B300
+APUB30072610,"Electricity per KWH in South size B, average price, not seasonally adjusted",B300
+APUB30072611,"Utility (piped) gas - 100 therms in South size B, average price, not seasonally adjusted",B300
+APUB30072620,"Utility (piped) gas per therm in South size B, average price, not seasonally adjusted",B300
+APUB30072621,"Electricity per 500 KWH in South size B, average price, not seasonally adjusted",B300
+APUB30074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in South size B, average price, not seasonally adjusted",B300
+APUB30074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in South size B, average price, not seasonally adjusted",B300
+APUB30074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South size B, average price, not seasonally adjusted",B300
+APUB30074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South size B, average price, not seasonally adjusted",B300
+APUB30074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South size B, average price, not seasonally adjusted",B300
+APUB3007471A,"Gasoline, all types, per gallon/3.785 liters in South size B, average price, not seasonally adjusted",B300
+APUB40072511,"Fuel oil #2 per gallon (3.785 liters) in West size B, average price, not seasonally adjusted",B400
+APUB40072601,"Utility (piped) gas - 40 therms in West size B, average price, not seasonally adjusted",B400
+APUB40072610,"Electricity per KWH in West size B, average price, not seasonally adjusted",B400
+APUB40072611,"Utility (piped) gas - 100 therms in West size B, average price, not seasonally adjusted",B400
+APUB40072620,"Utility (piped) gas per therm in West size B, average price, not seasonally adjusted",B400
+APUB40072621,"Electricity per 500 KWH in West size B, average price, not seasonally adjusted",B400
+APUB40074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in West size B, average price, not seasonally adjusted",B400
+APUB40074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in West size B, average price, not seasonally adjusted",B400
+APUB40074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West size B, average price, not seasonally adjusted",B400
+APUB40074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West size B, average price, not seasonally adjusted",B400
+APUB4007471A,"Gasoline, all types, per gallon/3.785 liters in West size B, average price, not seasonally adjusted",B400
+APUC00072511,"Fuel oil #2 per gallon (3.785 liters) in City size C, average price, not seasonally adjusted",C000
+APUC00072601,"Utility (piped) gas - 40 therms in City size C, average price, not seasonally adjusted",C000
+APUC00072610,"Electricity per KWH in City size C, average price, not seasonally adjusted",C000
+APUC00072611,"Utility (piped) gas - 100 therms in City size C, average price, not seasonally adjusted",C000
+APUC00072620,"Utility (piped) gas per therm in City size C, average price, not seasonally adjusted",C000
+APUC00072621,"Electricity per 500 KWH in City size C, average price, not seasonally adjusted",C000
+APUC00074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in City size C, average price, not seasonally adjusted",C000
+APUC00074714,"Gasoline, unleaded regular, per gallon/3.785 liters in City size C, average price, not seasonally adjusted",C000
+APUC00074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in City size C, average price, not seasonally adjusted",C000
+APUC00074716,"Gasoline, unleaded premium, per gallon/3.785 liters in City size C, average price, not seasonally adjusted",C000
+APUC0007471A,"Gasoline, all types, per gallon/3.785 liters in City size C, average price, not seasonally adjusted",C000
+APUC10072511,"Fuel oil #2 per gallon (3.785 liters) in Northeast size C, average price, not seasonally adjusted",C100
+APUC10072601,"Utility (piped) gas - 40 therms in Northeast size C, average price, not seasonally adjusted",C100
+APUC10072610,"Electricity per KWH in Northeast size C, average price, not seasonally adjusted",C100
+APUC10072611,"Utility (piped) gas - 100 therms in Northeast size C, average price, not seasonally adjusted",C100
+APUC10072620,"Utility (piped) gas per therm in Northeast size C, average price, not seasonally adjusted",C100
+APUC10072621,"Electricity per 500 KWH in Northeast size C, average price, not seasonally adjusted",C100
+APUC10074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Northeast size C, average price, not seasonally adjusted",C100
+APUC10074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Northeast size C, average price, not seasonally adjusted",C100
+APUC10074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Northeast size C, average price, not seasonally adjusted",C100
+APUC10074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Northeast size C, average price, not seasonally adjusted",C100
+APUC10074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Northeast size C, average price, not seasonally adjusted",C100
+APUC1007471A,"Gasoline, all types, per gallon/3.785 liters in Northeast size C, average price, not seasonally adjusted",C100
+APUC20072511,"Fuel oil #2 per gallon (3.785 liters) in North Central size C, average price, not seasonally adjusted",C200
+APUC20072601,"Utility (piped) gas - 40 therms in North Central size C, average price, not seasonally adjusted",C200
+APUC20072610,"Electricity per KWH in North Central size C, average price, not seasonally adjusted",C200
+APUC20072611,"Utility (piped) gas - 100 therms in North Central size C, average price, not seasonally adjusted",C200
+APUC20072620,"Utility (piped) gas per therm in North Central size C, average price, not seasonally adjusted",C200
+APUC20072621,"Electricity per 500 KWH in North Central size C, average price, not seasonally adjusted",C200
+APUC20074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in North Central size C, average price, not seasonally adjusted",C200
+APUC20074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in North Central size C, average price, not seasonally adjusted",C200
+APUC20074714,"Gasoline, unleaded regular, per gallon/3.785 liters in North Central size C, average price, not seasonally adjusted",C200
+APUC20074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in North Central size C, average price, not seasonally adjusted",C200
+APUC20074716,"Gasoline, unleaded premium, per gallon/3.785 liters in North Central size C, average price, not seasonally adjusted",C200
+APUC2007471A,"Gasoline, all types, per gallon/3.785 liters in North Central size C, average price, not seasonally adjusted",C200
+APUC30072511,"Fuel oil #2 per gallon (3.785 liters) in South size C, average price, not seasonally adjusted",C300
+APUC30072601,"Utility (piped) gas - 40 therms in South size C, average price, not seasonally adjusted",C300
+APUC30072610,"Electricity per KWH in South size C, average price, not seasonally adjusted",C300
+APUC30072611,"Utility (piped) gas - 100 therms in South size C, average price, not seasonally adjusted",C300
+APUC30072620,"Utility (piped) gas per therm in South size C, average price, not seasonally adjusted",C300
+APUC30072621,"Electricity per 500 KWH in South size C, average price, not seasonally adjusted",C300
+APUC30074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in South size C, average price, not seasonally adjusted",C300
+APUC30074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in South size C, average price, not seasonally adjusted",C300
+APUC30074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South size C, average price, not seasonally adjusted",C300
+APUC30074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South size C, average price, not seasonally adjusted",C300
+APUC30074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South size C, average price, not seasonally adjusted",C300
+APUC3007471A,"Gasoline, all types, per gallon/3.785 liters in South size C, average price, not seasonally adjusted",C300
+APUC40072511,"Fuel oil #2 per gallon (3.785 liters) in West size C, average price, not seasonally adjusted",C400
+APUC40072601,"Utility (piped) gas - 40 therms in West size C, average price, not seasonally adjusted",C400
+APUC40072610,"Electricity per KWH in West size C, average price, not seasonally adjusted",C400
+APUC40072611,"Utility (piped) gas - 100 therms in West size C, average price, not seasonally adjusted",C400
+APUC40072620,"Utility (piped) gas per therm in West size C, average price, not seasonally adjusted",C400
+APUC40072621,"Electricity per 500 KWH in West size C, average price, not seasonally adjusted",C400
+APUC40074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in West size C, average price, not seasonally adjusted",C400
+APUC40074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in West size C, average price, not seasonally adjusted",C400
+APUC40074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West size C, average price, not seasonally adjusted",C400
+APUC40074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in West size C, average price, not seasonally adjusted",C400
+APUC40074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West size C, average price, not seasonally adjusted",C400
+APUC4007471A,"Gasoline, all types, per gallon/3.785 liters in West size C, average price, not seasonally adjusted",C400
+APUD00072511,"Fuel oil #2 per gallon (3.785 liters) in City size D, average price, not seasonally adjusted",D000
+APUD00072601,"Utility (piped) gas - 40 therms in City size D, average price, not seasonally adjusted",D000
+APUD00072610,"Electricity per KWH in City size D, average price, not seasonally adjusted",D000
+APUD00072611,"Utility (piped) gas - 100 therms in City size D, average price, not seasonally adjusted",D000
+APUD00072620,"Utility (piped) gas per therm in City size D, average price, not seasonally adjusted",D000
+APUD00072621,"Electricity per 500 KWH in City size D, average price, not seasonally adjusted",D000
+APUD00074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in City size D, average price, not seasonally adjusted",D000
+APUD00074714,"Gasoline, unleaded regular, per gallon/3.785 liters in City size D, average price, not seasonally adjusted",D000
+APUD00074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in City size D, average price, not seasonally adjusted",D000
+APUD00074716,"Gasoline, unleaded premium, per gallon/3.785 liters in City size D, average price, not seasonally adjusted",D000
+APUD00074717,"Automotive diesel fuel, per gallon/3.785 liters in City size D, average price, not seasonally adjusted",D000
+APUD0007471A,"Gasoline, all types, per gallon/3.785 liters in City size D, average price, not seasonally adjusted",D000
+APUD10072511,"Fuel oil #2 per gallon (3.785 liters) in Northeast size D, average price, not seasonally adjusted",D100
+APUD10072601,"Utility (piped) gas - 40 therms in Northeast size D, average price, not seasonally adjusted",D100
+APUD10072610,"Electricity per KWH in Northeast size D, average price, not seasonally adjusted",D100
+APUD10072611,"Utility (piped) gas - 100 therms in Northeast size D, average price, not seasonally adjusted",D100
+APUD10072620,"Utility (piped) gas per therm in Northeast size D, average price, not seasonally adjusted",D100
+APUD10072621,"Electricity per 500 KWH in Northeast size D, average price, not seasonally adjusted",D100
+APUD10074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Northeast size D, average price, not seasonally adjusted",D100
+APUD10074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Northeast size D, average price, not seasonally adjusted",D100
+APUD10074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Northeast size D, average price, not seasonally adjusted",D100
+APUD10074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Northeast size D, average price, not seasonally adjusted",D100
+APUD1007471A,"Gasoline, all types, per gallon/3.785 liters in Northeast size D, average price, not seasonally adjusted",D100
+APUD20072511,"Fuel oil #2 per gallon (3.785 liters) in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20072601,"Utility (piped) gas - 40 therms in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20072610,"Electricity per KWH in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20072611,"Utility (piped) gas - 100 therms in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20072620,"Utility (piped) gas per therm in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20072621,"Electricity per 500 KWH in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Midwest Size D, average price, not seasonally adjusted",D200
+APUD20074717,"Automotive diesel fuel, per gallon/3.785 liters in Midwest Size D, average price, not seasonally adjusted",D200
+APUD2007471A,"Gasoline, all types, per gallon/3.785 liters in Midwest Size D, average price, not seasonally adjusted",D200
+APUD30072511,"Fuel oil #2 per gallon (3.785 liters) in South Size D, average price, not seasonally adjusted",D300
+APUD30072601,"Utility (piped) gas - 40 therms in South Size D, average price, not seasonally adjusted",D300
+APUD30072610,"Electricity per KWH in South Size D, average price, not seasonally adjusted",D300
+APUD30072611,"Utility (piped) gas - 100 therms in South Size D, average price, not seasonally adjusted",D300
+APUD30072620,"Utility (piped) gas per therm in South Size D, average price, not seasonally adjusted",D300
+APUD30072621,"Electricity per 500 KWH in South Size D, average price, not seasonally adjusted",D300
+APUD30074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in South Size D, average price, not seasonally adjusted",D300
+APUD30074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in South Size D, average price, not seasonally adjusted",D300
+APUD30074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South Size D, average price, not seasonally adjusted",D300
+APUD30074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South Size D, average price, not seasonally adjusted",D300
+APUD30074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South Size D, average price, not seasonally adjusted",D300
+APUD30074717,"Automotive diesel fuel, per gallon/3.785 liters in South Size D, average price, not seasonally adjusted",D300
+APUD3007471A,"Gasoline, all types, per gallon/3.785 liters in South Size D, average price, not seasonally adjusted",D300
+APUD40072511,"Fuel oil #2 per gallon (3.785 liters) in West size D, average price, not seasonally adjusted",D400
+APUD40072601,"Utility (piped) gas - 40 therms in West size D, average price, not seasonally adjusted",D400
+APUD40072610,"Electricity per KWH in West size D, average price, not seasonally adjusted",D400
+APUD40072611,"Utility (piped) gas - 100 therms in West size D, average price, not seasonally adjusted",D400
+APUD40072620,"Utility (piped) gas per therm in West size D, average price, not seasonally adjusted",D400
+APUD40072621,"Electricity per 500 KWH in West size D, average price, not seasonally adjusted",D400
+APUD40074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in West size D, average price, not seasonally adjusted",D400
+APUD40074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in West size D, average price, not seasonally adjusted",D400
+APUD40074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West size D, average price, not seasonally adjusted",D400
+APUD4007471A,"Gasoline, all types, per gallon/3.785 liters in West size D, average price, not seasonally adjusted",D400
+APUN00072511,"Fuel oil #2 per gallon (3.785 liters) in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00072601,"Utility (piped) gas - 40 therms in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00072610,"Electricity per KWH in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00072611,"Utility (piped) gas - 100 therms in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00072620,"Utility (piped) gas per therm in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00072621,"Electricity per 500 KWH in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Size Class B/C, average price, not seasonally adjusted",N000
+APUN00074717,"Automotive diesel fuel, per gallon/3.785 liters in Size Class B/C, average price, not seasonally adjusted",N000
+APUN0007471A,"Gasoline, all types, per gallon/3.785 liters in Size Class B/C, average price, not seasonally adjusted",N000
+APUN10072511,"Fuel oil #2 per gallon (3.785 liters) in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10072601,"Utility (piped) gas - 40 therms in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10072610,"Electricity per KWH in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10072611,"Utility (piped) gas - 100 therms in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10072620,"Utility (piped) gas per therm in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10072621,"Electricity per 500 KWH in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN10074717,"Automotive diesel fuel, per gallon/3.785 liters in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN1007471A,"Gasoline, all types, per gallon/3.785 liters in Northeast - Size Class B/C, average price, not seasonally adjusted",N100
+APUN20072511,"Fuel oil #2 per gallon (3.785 liters) in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20072601,"Utility (piped) gas - 40 therms in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20072610,"Electricity per KWH in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20072611,"Utility (piped) gas - 100 therms in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20072620,"Utility (piped) gas per therm in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20072621,"Electricity per 500 KWH in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN20074717,"Automotive diesel fuel, per gallon/3.785 liters in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN2007471A,"Gasoline, all types, per gallon/3.785 liters in Midwest - Size Class B/C, average price, not seasonally adjusted",N200
+APUN30072511,"Fuel oil #2 per gallon (3.785 liters) in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30072601,"Utility (piped) gas - 40 therms in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30072610,"Electricity per KWH in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30072611,"Utility (piped) gas - 100 therms in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30072620,"Utility (piped) gas per therm in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30072621,"Electricity per 500 KWH in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN30074717,"Automotive diesel fuel, per gallon/3.785 liters in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN3007471A,"Gasoline, all types, per gallon/3.785 liters in South - Size Class B/C, average price, not seasonally adjusted",N300
+APUN40072511,"Fuel oil #2 per gallon (3.785 liters) in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40072601,"Utility (piped) gas - 40 therms in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40072610,"Electricity per KWH in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40072611,"Utility (piped) gas - 100 therms in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40072620,"Utility (piped) gas per therm in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40072621,"Electricity per 500 KWH in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN40074717,"Automotive diesel fuel, per gallon/3.785 liters in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUN4007471A,"Gasoline, all types, per gallon/3.785 liters in West - Size Class B/C, average price, not seasonally adjusted",N400
+APUS00072511,"Fuel oil #2 per gallon (3.785 liters) in Size Class A, average price, not seasonally adjusted",S000
+APUS00072601,"Utility (piped) gas - 40 therms in Size Class A, average price, not seasonally adjusted",S000
+APUS00072610,"Electricity per KWH in Size Class A, average price, not seasonally adjusted",S000
+APUS00072611,"Utility (piped) gas - 100 therms in Size Class A, average price, not seasonally adjusted",S000
+APUS00072620,"Utility (piped) gas per therm in Size Class A, average price, not seasonally adjusted",S000
+APUS00072621,"Electricity per 500 KWH in Size Class A, average price, not seasonally adjusted",S000
+APUS00074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Size Class A, average price, not seasonally adjusted",S000
+APUS00074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Size Class A, average price, not seasonally adjusted",S000
+APUS00074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Size Class A, average price, not seasonally adjusted",S000
+APUS00074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Size Class A, average price, not seasonally adjusted",S000
+APUS00074717,"Automotive diesel fuel, per gallon/3.785 liters in Size Class A, average price, not seasonally adjusted",S000
+APUS0007471A,"Gasoline, all types, per gallon/3.785 liters in Size Class A, average price, not seasonally adjusted",S000
+APUS10072511,"Fuel oil #2 per gallon (3.785 liters) in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10072601,"Utility (piped) gas - 40 therms in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10072610,"Electricity per KWH in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10072611,"Utility (piped) gas - 100 therms in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10072620,"Utility (piped) gas per therm in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10072621,"Electricity per 500 KWH in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS10074717,"Automotive diesel fuel, per gallon/3.785 liters in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS1007471A,"Gasoline, all types, per gallon/3.785 liters in Northeast - Size Class A, average price, not seasonally adjusted",S100
+APUS11A72511,"Fuel oil #2 per gallon (3.785 liters) in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A72601,"Utility (piped) gas - 40 therms in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A72610,"Electricity per KWH in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A72611,"Utility (piped) gas - 100 therms in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A72620,"Utility (piped) gas per therm in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A72621,"Electricity per 500 KWH in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS11A7471A,"Gasoline, all types, per gallon/3.785 liters in Boston-Cambridge-Newton, MA-NH, average price, not seasonally adjusted",S11A
+APUS12A72511,"Fuel oil #2 per gallon (3.785 liters) in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A72601,"Utility (piped) gas - 40 therms in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A72610,"Electricity per KWH in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A72611,"Utility (piped) gas - 100 therms in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A72620,"Utility (piped) gas per therm in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A72621,"Electricity per 500 KWH in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12A7471A,"Gasoline, all types, per gallon/3.785 liters in New York-Newark-Jersey City, NY-NJ-PA, average price, not seasonally adjusted",S12A
+APUS12B72511,"Fuel oil #2 per gallon (3.785 liters) in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B72601,"Utility (piped) gas - 40 therms in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B72610,"Electricity per KWH in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B72611,"Utility (piped) gas - 100 therms in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B72620,"Utility (piped) gas per therm in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B72621,"Electricity per 500 KWH in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS12B7471A,"Gasoline, all types, per gallon/3.785 liters in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, average price, not seasonally adjusted",S12B
+APUS20072511,"Fuel oil #2 per gallon (3.785 liters) in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20072601,"Utility (piped) gas - 40 therms in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20072610,"Electricity per KWH in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20072611,"Utility (piped) gas - 100 therms in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20072620,"Utility (piped) gas per therm in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20072621,"Electricity per 500 KWH in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20074714,"Gasoline, unleaded regular, per gallon/3.785 liters in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20074716,"Gasoline, unleaded premium, per gallon/3.785 liters in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS20074717,"Automotive diesel fuel, per gallon/3.785 liters in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS2007471A,"Gasoline, all types, per gallon/3.785 liters in Midwest - Size Class A, average price, not seasonally adjusted",S200
+APUS23A72511,"Fuel oil #2 per gallon (3.785 liters) in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A72601,"Utility (piped) gas - 40 therms in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A72610,"Electricity per KWH in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A72611,"Utility (piped) gas - 100 therms in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A72620,"Utility (piped) gas per therm in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A72621,"Electricity per 500 KWH in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23A7471A,"Gasoline, all types, per gallon/3.785 liters in Chicago-Naperville-Elgin, IL-IN-WI, average price, not seasonally adjusted",S23A
+APUS23B72511,"Fuel oil #2 per gallon (3.785 liters) in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B72601,"Utility (piped) gas - 40 therms in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B72610,"Electricity per KWH in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B72611,"Utility (piped) gas - 100 therms in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B72620,"Utility (piped) gas per therm in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B72621,"Electricity per 500 KWH in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS23B7471A,"Gasoline, all types, per gallon/3.785 liters in Detroit-Warren-Dearborn, MI, average price, not seasonally adjusted",S23B
+APUS24A72511,"Fuel oil #2 per gallon (3.785 liters) in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A72601,"Utility (piped) gas - 40 therms in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A72610,"Electricity per KWH in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A72611,"Utility (piped) gas - 100 therms in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A72620,"Utility (piped) gas per therm in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A72621,"Electricity per 500 KWH in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24A7471A,"Gasoline, all types, per gallon/3.785 liters in Minneapolis-St.Paul-Bloomington, MN-WI, average price, not seasonally adjusted",S24A
+APUS24B72511,"Fuel oil #2 per gallon (3.785 liters) in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B72601,"Utility (piped) gas - 40 therms in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B72610,"Electricity per KWH in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B72611,"Utility (piped) gas - 100 therms in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B72620,"Utility (piped) gas per therm in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B72621,"Electricity per 500 KWH in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS24B7471A,"Gasoline, all types, per gallon/3.785 liters in St. Louis, MO-IL, average price, not seasonally adjusted",S24B
+APUS30072511,"Fuel oil #2 per gallon (3.785 liters) in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30072601,"Utility (piped) gas - 40 therms in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30072610,"Electricity per KWH in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30072611,"Utility (piped) gas - 100 therms in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30072620,"Utility (piped) gas per therm in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30072621,"Electricity per 500 KWH in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30074714,"Gasoline, unleaded regular, per gallon/3.785 liters in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30074716,"Gasoline, unleaded premium, per gallon/3.785 liters in South - Size Class A, average price, not seasonally adjusted",S300
+APUS30074717,"Automotive diesel fuel, per gallon/3.785 liters in South - Size Class A, average price, not seasonally adjusted",S300
+APUS3007471A,"Gasoline, all types, per gallon/3.785 liters in South - Size Class A, average price, not seasonally adjusted",S300
+APUS35A72511,"Fuel oil #2 per gallon (3.785 liters) in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A72601,"Utility (piped) gas - 40 therms in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A72610,"Electricity per KWH in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A72611,"Utility (piped) gas - 100 therms in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A72620,"Utility (piped) gas per therm in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A72621,"Electricity per 500 KWH in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35A7471A,"Gasoline, all types, per gallon/3.785 liters in Washington-Arlington-Alexandria, DC-VA-MD-WV, average price, not seasonally adjusted",S35A
+APUS35B72601,"Utility (piped) gas - 40 therms in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B72610,"Electricity per KWH in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B72611,"Utility (piped) gas - 100 therms in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B72620,"Utility (piped) gas per therm in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B72621,"Electricity per 500 KWH in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35B7471A,"Gasoline, all types, per gallon/3.785 liters in Miami-Fort Lauderdale-West Palm Beach, FL, average price, not seasonally adjusted",S35B
+APUS35C72601,"Utility (piped) gas - 40 therms in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C72610,"Electricity per KWH in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C72611,"Utility (piped) gas - 100 therms in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C72620,"Utility (piped) gas per therm in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C72621,"Electricity per 500 KWH in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35C7471A,"Gasoline, all types, per gallon/3.785 liters in Atlanta-Sandy Springs-Roswell, GA, average price, not seasonally adjusted",S35C
+APUS35D72610,"Electricity per KWH in Tampa-St. Petersburg-Clearwater, FL, average price, not seasonally adjusted",S35D
+APUS35D74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Tampa-St. Petersburg-Clearwater, FL, average price, not seasonally adjusted",S35D
+APUS35D74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Tampa-St. Petersburg-Clearwater, FL, average price, not seasonally adjusted",S35D
+APUS35D74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Tampa-St. Petersburg-Clearwater, FL, average price, not seasonally adjusted",S35D
+APUS35D7471A,"Gasoline, all types, per gallon/3.785 liters in Tampa-St. Petersburg-Clearwater, FL, average price, not seasonally adjusted",S35D
+APUS35E72511,"Fuel oil #2 per gallon (3.785 liters) in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E72601,"Utility (piped) gas - 40 therms in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E72610,"Electricity per KWH in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E72611,"Utility (piped) gas - 100 therms in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E72620,"Utility (piped) gas per therm in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E72621,"Electricity per 500 KWH in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS35E7471A,"Gasoline, all types, per gallon/3.785 liters in Baltimore-Columbia-Towson, MD, average price, not seasonally adjusted",S35E
+APUS37A72601,"Utility (piped) gas - 40 therms in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A72610,"Electricity per KWH in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A72611,"Utility (piped) gas - 100 therms in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A72620,"Utility (piped) gas per therm in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A72621,"Electricity per 500 KWH in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37A7471A,"Gasoline, all types, per gallon/3.785 liters in Dallas-Fort Worth-Arlington, TX, average price, not seasonally adjusted",S37A
+APUS37B72601,"Utility (piped) gas - 40 therms in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B72610,"Electricity per KWH in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B72611,"Utility (piped) gas - 100 therms in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B72620,"Utility (piped) gas per therm in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B72621,"Electricity per 500 KWH in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS37B7471A,"Gasoline, all types, per gallon/3.785 liters in Houston-The Woodlands-Sugar Land, TX, average price, not seasonally adjusted",S37B
+APUS40072511,"Fuel oil #2 per gallon (3.785 liters) in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40072601,"Utility (piped) gas - 40 therms in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40072610,"Electricity per KWH in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40072611,"Utility (piped) gas - 100 therms in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40072620,"Utility (piped) gas per therm in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40072621,"Electricity per 500 KWH in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40074712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40074713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40074714,"Gasoline, unleaded regular, per gallon/3.785 liters in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40074715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40074716,"Gasoline, unleaded premium, per gallon/3.785 liters in West - Size Class A, average price, not seasonally adjusted",S400
+APUS40074717,"Automotive diesel fuel, per gallon/3.785 liters in West - Size Class A, average price, not seasonally adjusted",S400
+APUS4007471A,"Gasoline, all types, per gallon/3.785 liters in West - Size Class A, average price, not seasonally adjusted",S400
+APUS48A72610,"Electricity per KWH in Phoenix-Mesa-Scottsdale, AZ, average price, not seasonally adjusted",S48A
+APUS48A72620,"Utility (piped) gas per therm in Phoenix-Mesa-Scottsdale, AZ, average price, not seasonally adjusted",S48A
+APUS48A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Phoenix-Mesa-Scottsdale, AZ, average price, not seasonally adjusted",S48A
+APUS48A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Phoenix-Mesa-Scottsdale, AZ, average price, not seasonally adjusted",S48A
+APUS48A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Phoenix-Mesa-Scottsdale, AZ, average price, not seasonally adjusted",S48A
+APUS48A7471A,"Gasoline, all types, per gallon/3.785 liters in Phoenix-Mesa-Scottsdale, AZ, average price, not seasonally adjusted",S48A
+APUS48B72601,"Utility (piped) gas - 40 therms in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B72610,"Electricity per KWH in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B72611,"Utility (piped) gas - 100 therms in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B72620,"Utility (piped) gas per therm in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B72621,"Electricity per 500 KWH in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS48B7471A,"Gasoline, all types, per gallon/3.785 liters in Denver-Aurora-Lakewood, CO, average price, not seasonally adjusted",S48B
+APUS49A72601,"Utility (piped) gas - 40 therms in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A72610,"Electricity per KWH in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A72611,"Utility (piped) gas - 100 therms in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A72620,"Utility (piped) gas per therm in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A72621,"Electricity per 500 KWH in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49A7471A,"Gasoline, all types, per gallon/3.785 liters in Los Angeles-Long Beach-Anaheim, CA, average price, not seasonally adjusted",S49A
+APUS49B72601,"Utility (piped) gas - 40 therms in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B72610,"Electricity per KWH in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B72611,"Utility (piped) gas - 100 therms in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B72620,"Utility (piped) gas per therm in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B72621,"Electricity per 500 KWH in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B74714,"Gasoline, unleaded regular, per gallon/3.785 liters in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B74716,"Gasoline, unleaded premium, per gallon/3.785 liters in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49B7471A,"Gasoline, all types, per gallon/3.785 liters in San Francisco-Oakland-Hayward, CA, average price, not seasonally adjusted",S49B
+APUS49C72610,"Electricity per KWH in Riverside-San Bernardino-Ontario, CA, average price, not seasonally adjusted",S49C
+APUS49C72620,"Utility (piped) gas per therm in Riverside-San Bernardino-Ontario, CA, average price, not seasonally adjusted",S49C
+APUS49C74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Riverside-San Bernardino-Ontario, CA, average price, not seasonally adjusted",S49C
+APUS49C74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Riverside-San Bernardino-Ontario, CA, average price, not seasonally adjusted",S49C
+APUS49C74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Riverside-San Bernardino-Ontario, CA, average price, not seasonally adjusted",S49C
+APUS49C7471A,"Gasoline, all types, per gallon/3.785 liters in Riverside-San Bernardino-Ontario, CA, average price, not seasonally adjusted",S49C
+APUS49D72511,"Fuel oil #2 per gallon (3.785 liters) in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D72601,"Utility (piped) gas - 40 therms in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D72610,"Electricity per KWH in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D72611,"Utility (piped) gas - 100 therms in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D72620,"Utility (piped) gas per therm in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D72621,"Electricity per 500 KWH in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49D7471A,"Gasoline, all types, per gallon/3.785 liters in Seattle-Tacoma-Bellevue, WA, average price, not seasonally adjusted",S49D
+APUS49E72601,"Utility (piped) gas - 40 therms in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E72610,"Electricity per KWH in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E72611,"Utility (piped) gas - 100 therms in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E72620,"Utility (piped) gas per therm in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E72621,"Electricity per 500 KWH in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E74714,"Gasoline, unleaded regular, per gallon/3.785 liters in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E74716,"Gasoline, unleaded premium, per gallon/3.785 liters in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49E7471A,"Gasoline, all types, per gallon/3.785 liters in San Diego-Carlsbad, CA, average price, not seasonally adjusted",S49E
+APUS49F72601,"Utility (piped) gas - 40 therms in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F72610,"Electricity per KWH in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F72611,"Utility (piped) gas - 100 therms in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F72620,"Utility (piped) gas per therm in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F72621,"Electricity per 500 KWH in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49F7471A,"Gasoline, all types, per gallon/3.785 liters in Urban Hawaii, average price, not seasonally adjusted",S49F
+APUS49G72511,"Fuel oil #2 per gallon (3.785 liters) in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G72601,"Utility (piped) gas - 40 therms in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G72610,"Electricity per KWH in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G72611,"Utility (piped) gas - 100 therms in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G72620,"Utility (piped) gas per therm in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G72621,"Electricity per 500 KWH in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G74712,"Gasoline, leaded regular (cost per gallon/3.8 liters) in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G74713,"Gasoline, leaded premium (cost per gallon/3.8 liters) in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G74714,"Gasoline, unleaded regular, per gallon/3.785 liters in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G74715,"Gasoline, unleaded midgrade, per gallon/3.785 liters in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G74716,"Gasoline, unleaded premium, per gallon/3.785 liters in Urban Alaska, average price, not seasonally adjusted",S49G
+APUS49G7471A,"Gasoline, all types, per gallon/3.785 liters in Urban Alaska, average price, not seasonally adjusted",S49G
