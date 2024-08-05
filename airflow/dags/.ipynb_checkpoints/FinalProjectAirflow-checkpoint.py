@@ -65,17 +65,6 @@ with DAG('final_project_group6', default_args=default_args, schedule_interval='@
         consolidated_df = pd.DataFrame(consolidated_data)
         consolidated_df.to_csv("/home/jhu/FinalProjectGroup6/TransformedData/JoinedData.csv", index=False)
         
-
-    
-    # load_data_task = PapermillOperator(
-    #         task_id="load_data_task",
-    #         input_nb="/home/jhu/FinalProjectGroup6/Data Transf & Postgres Load - LH.ipynb",
-    #         output_nb="/home/jhu/FinalProjectGroup6/temp.ipynb",
-    #         execution_timeout=timedelta(minutes=10),
-    #         parameters={"msgs": "Ran from Airflow at {{ execution_date }}!"}
-    #     )        
-
-
     load_data_task = BashOperator(
             task_id='load_data_task',
             bash_command='python3 /home/jhu/FinalProjectGroup6/DataTransformationPython.py'
@@ -87,10 +76,8 @@ with DAG('final_project_group6', default_args=default_args, schedule_interval='@
 
     create_api_task = BashOperator(
             task_id='create_api_task',
-            bash_command='python3 /home/jhu/FinalProjectGroup6/inflation-flask.py'
+            bash_command='python3 /home/jhu/FinalProjectGroup6/Group6API.py'
     )
     
-    # test_nb_task >> load_data_task >> save_data_task
     load_data_task >> joined_data_task >> create_api_task
-    # test_nb_task >> create_api_task
 
