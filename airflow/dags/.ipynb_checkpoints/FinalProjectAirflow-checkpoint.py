@@ -1,5 +1,5 @@
 #Final project
-#Group 6
+#Grou[ 6
 import os
 import json
 from airflow import DAG
@@ -11,8 +11,6 @@ import psycopg2
 from psycopg2 import sql
 import pandas as pd
 import numpy as np
-import papermill as pm
-from airflow.operators.papermill_operator import PapermillOperator
 
 
 
@@ -69,13 +67,19 @@ with DAG('final_project_group6', default_args=default_args, schedule_interval='@
         
 
     
-    load_data_task = PapermillOperator(
-            task_id="load_data_task",
-            input_nb="/home/jhu/FinalProjectGroup6/Data Transf & Postgres Load - LH.ipynb",
-            output_nb="/home/jhu/FinalProjectGroup6/temp.ipynb",
-            parameters={"msgs": "Ran from Airflow at {{ execution_date }}!"}
-        )        
+    # load_data_task = PapermillOperator(
+    #         task_id="load_data_task",
+    #         input_nb="/home/jhu/FinalProjectGroup6/Data Transf & Postgres Load - LH.ipynb",
+    #         output_nb="/home/jhu/FinalProjectGroup6/temp.ipynb",
+    #         execution_timeout=timedelta(minutes=10),
+    #         parameters={"msgs": "Ran from Airflow at {{ execution_date }}!"}
+    #     )        
 
+
+    load_data_task = BashOperator(
+            task_id='load_data_task',
+            bash_command='python3 /home/jhu/FinalProjectGroup6/DataTransformationPython.py'
+    )
     joined_data_task = PythonOperator(
             task_id="joined_data_task",
             python_callable=joined_data
