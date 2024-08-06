@@ -11,6 +11,8 @@ import psycopg2
 from psycopg2 import sql
 import pandas as pd
 import numpy as np
+import papermill as pm
+from airflow.operators.papermill_operator import PapermillOperator
 
 
 
@@ -61,10 +63,11 @@ with DAG('final_project_group6', default_args=default_args, schedule_interval='@
         cur_psql.execute(sql, ('%Gasoline, unleaded regular%','%Electricity%','%Utility (piped) gas%'))
 
         rows = cur_psql.fetchall()
-        consolidated_data = [{'Year':row[0], 'Month': row[1], 'CPI': row[2], 'Series Name': row[3], 'Geo Name': row[4], 'Annual Earnings per Household': row[5]} for row in rows]
+        consolidated_data = [{'year':row[0], 'month': row[1], 'metro_name': row[2], 'zillow_rent_index_value': row[3], 'avg_household_earnings': row[4], 'unleaded_gas_cpi': row[5], 'electricity_cpi':row[6],'utility_gas_cpi':row[7]} for row in rows]
         consolidated_df = pd.DataFrame(consolidated_data)
         consolidated_df.to_csv("/home/jhu/FinalProjectGroup6/TransformedData/JoinedData.csv", index=False)
         
+
     load_data_task = BashOperator(
             task_id='load_data_task',
             bash_command='python3 /home/jhu/FinalProjectGroup6/DataTransformationPython.py'
