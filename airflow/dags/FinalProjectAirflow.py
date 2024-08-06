@@ -1,5 +1,5 @@
 #Final project
-#Grou[ 6
+#Group 6
 import os
 import json
 from airflow import DAG
