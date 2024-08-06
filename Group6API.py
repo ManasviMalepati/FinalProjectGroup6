@@ -72,34 +72,6 @@ def get_metros():
 def aggregate_data():
     conn, cur = connect_db()
     global agg
-   
-  #   sql = (
-  #       """
-  #   	   SELECT bc.year, bc.month
-  #      , zg.zillow_geo_name as metro_name
-  #      , z.zillow_rent_index_value
-	 #   , c.avg_household_earnings
-  #      , avg( case when bs.series_name like '%Gasoline, unleaded regular%' then bc.cpi_value end ) as unleaded_gas_cpi
-	 #   , avg( case when bs.series_name like '%Electricity%' then bc.cpi_value end) as electricity_cpi
-	 #   , avg( case when bs.series_name ilike '%Utility (piped) gas%' then bc.cpi_value end ) as utility_gas_cpi
-  #      from bls_cpi bc
-  #      join bls_series bs on bc.series_id = bs.series_id
-  #      join geo_map g on g.bls_geo_id = bs.bls_geo_id
-  #      join zillow_geo zg on g.zillow_geo_id = zg.zillow_geo_id
-  #      join zillow_rent_index z 
-  #          on g.zillow_geo_id = z.zillow_geo_id
-  #          and bc.year = z.year 
-  #          and bc.month = z.month
-  #       join census_earnings c 
-  #           on g.census_geo_id = c.census_geo_id
-  #           and bc.year = z.year
-		# group by bc.year, bc.month
-		#    , zg.zillow_geo_name, z.zillow_rent_index_value, c.avg_household_earnings
-  #       """ )
-  #   cur.execute(sql)
-
-  #   data = cur.fetchall()
-    # agg = pd.DataFrame(data, columns=['year', 'month', 'metro_name', 'zillow_rent_index_value', 'avg_household_earnings', 'unleaded_gas_cpi', 'electricity_cpi', 'utility_gas_cpi'])
     agg = pd.read_csv('/home/jhu/FinalProjectGroup6/TransformedData/JoinedData.csv')
     message = { 'message' : 'data successfully aggregated' }
     return jsonify(message)
