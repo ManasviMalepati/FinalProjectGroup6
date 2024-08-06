@@ -11,8 +11,6 @@ import psycopg2
 from psycopg2 import sql
 import pandas as pd
 import numpy as np
-import papermill as pm
-from airflow.operators.papermill_operator import PapermillOperator
 
 
 
